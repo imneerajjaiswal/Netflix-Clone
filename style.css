@@ -263,7 +263,7 @@ footer .questions {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        gap: 16px;
+        gap: 15px;
     }
 
     .faq h2 {
