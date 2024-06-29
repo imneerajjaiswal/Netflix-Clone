@@ -1,4 +1,4 @@
-#Using Only HTML / CSS  Its my First Project After Learniing HTML/CSS
+#Using Only HTML / CSS  Its my First Project After Learning HTML/CSS
 
 #Screenshots
 
